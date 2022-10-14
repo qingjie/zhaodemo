@@ -1,0 +1,12 @@
+/Users/qzhao/dev/azure-devops/zhaodemo/app/zhaodemo
+/Users/qzhao/dev/azure-devops/zhaodemo/app/app/web.config
+/Users/qzhao/dev/azure-devops/zhaodemo/app/app/appsettings.Development.json
+/Users/qzhao/dev/azure-devops/zhaodemo/app/app/appsettings.json
+/Users/qzhao/dev/azure-devops/zhaodemo/app/app/zhaodemo.deps.json
+/Users/qzhao/dev/azure-devops/zhaodemo/app/app/zhaodemo.runtimeconfig.json
+/Users/qzhao/dev/azure-devops/zhaodemo/app/appsettings.Development.json
+/Users/qzhao/dev/azure-devops/zhaodemo/app/appsettings.json
+/Users/qzhao/dev/azure-devops/zhaodemo/app/zhaodemo.dll
+/Users/qzhao/dev/azure-devops/zhaodemo/app/zhaodemo.deps.json
+/Users/qzhao/dev/azure-devops/zhaodemo/app/zhaodemo.runtimeconfig.json
+/Users/qzhao/dev/azure-devops/zhaodemo/app/zhaodemo.pdb
